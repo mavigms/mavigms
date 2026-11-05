@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[seu-usuario]/[seu-usuario]/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[seu-usuario]/[seu-usuario]/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/[seu-usuario]/[seu-usuario]/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mavigms/mavigms/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mavigms/mavigms/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mavigms/mavigms/output/github-snake.svg" />
   </picture>
 </p>
